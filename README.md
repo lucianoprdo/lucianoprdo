@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucianoprdo
 - 👀 I’m interested in evolving as a developer and creating a network of contacts
-- 🌱 I’m currently learning Fullstack software development at Trybe
+- 🌱 I’m currently learning Bak-end software development at Trybe
 
 
 <!---
